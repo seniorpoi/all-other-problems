@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FragmentDevApp"
+rootProject.name = "SplashActivity"
 include(":app")
  
