@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "appbar"
+rootProject.name = "Bottom_Sheet"
 include(":app")
+ 
