@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "fitness_trackingApp"
+rootProject.name = "FragmentDevApp"
 include(":app")
  
